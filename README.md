@@ -1,7 +1,8 @@
-# 🛒 Zepto Grocery — Data Analysis Project
+# 🛒 Zepto Grocery — Business-Analytics Project
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Business Analytics](https://img.shields.io/badge/Business%20Analytics-0078D6?style=for-the-badge&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 ---
