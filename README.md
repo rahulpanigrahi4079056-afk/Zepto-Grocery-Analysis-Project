@@ -9,7 +9,7 @@
 
 ## 📌 Project Overview
 
-An end-to-end data analysis project on Zepto's grocery product catalog.
+An end-to-end Business-Analytics project on Zepto's grocery product catalog.
 Zepto is an Indian quick commerce platform delivering groceries in 10 minutes,
 competing with Blinkit and Swiggy Instamart across Indian metro cities.
 
